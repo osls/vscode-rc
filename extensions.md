@@ -10,3 +10,4 @@
 - vscodevim.vim
 - org-mode
 - markdown-all-in-one
+- latex-workshop
