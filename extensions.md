@@ -11,3 +11,4 @@
 - org-mode
 - markdown-all-in-one
 - latex-workshop
+- auto-header
