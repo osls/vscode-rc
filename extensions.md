@@ -1,7 +1,7 @@
 - vscode-nier-automata-theme
 - sql-formatter
 - gitlens
-- pythonsnippets
+- vscode-awesome-snippets
 - ms-python.anaconda-extension-pack
 - ms-python.python
 - ms-vscode.go
@@ -12,3 +12,7 @@
 - markdown-all-in-one
 - latex-workshop
 - auto-header
+- vsc-material-theme
+- code-spell-checker
+- rust-lang.rust
+- code-runner
