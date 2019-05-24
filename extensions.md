@@ -1,7 +1,7 @@
 - vscode-nier-automata-theme
 - sql-formatter
 - gitlens
-- vscode-awesome-snippets
+- vscode-snippet.snippet
 - ms-python.anaconda-extension-pack
 - ms-python.python
 - ms-vscode.go
