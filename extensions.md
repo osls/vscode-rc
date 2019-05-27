@@ -14,6 +14,8 @@
 - markdown-all-in-one
 - latex-workshop
 - vscode-table-formatter
+- markdown-pdf
+- pdf
 
 ## assist
 - auto-header
