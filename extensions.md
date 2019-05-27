@@ -4,18 +4,16 @@
 - ms-python.anaconda-extension-pack
 - ms-python.python
 - ms-vscode.go
-- sql-formatter
 - ms-mssql.mssql
 - rust-lang.rust
-- redhat.vscode-yaml
 
 ## markdown
 - org-mode
-- markdown-all-in-one
-- latex-workshop
 - vscode-table-formatter
+- redhat.vscode-yaml
+- markdown-all-in-one
 - markdown-pdf
-- pdf
+- latex-workshop
 
 ## assist
 - auto-header
@@ -24,6 +22,7 @@
 - vscodevim.vim
 - code-spell-checker
 - code-runner
+- pdf
 
 ## themes
 - vscode-nier-automata-theme
