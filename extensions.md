@@ -20,6 +20,7 @@
 - gitlens
 - vscode-snippet.snippet
 - vscodevim.vim
+- vscode-emacs-friendly
 - code-spell-checker
 - code-runner
 - pdf
