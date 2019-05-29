@@ -1,7 +1,8 @@
 {
     "editor.fontFamily": "hack",
     "editor.fontSize": 15,
-    "workbench.colorTheme": "Nier: Automata Light",
+    "workbench.colorTheme": "Material Theme",
+    "workbench.iconTheme": "material-icon-theme",
     "vim.useSystemClipboard": true,
-    "vim.useCtrlKeys": false
+    "vim.useCtrlKeys": true
 }
