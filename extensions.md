@@ -1,5 +1,3 @@
-# ExtRoot
-
 ## lang
 - ms-python.anaconda-extension-pack
 - ms-python.python
@@ -24,9 +22,15 @@
 - code-spell-checker
 - code-runner
 - pdf
+- sqlformatter
+- pythonsnippets
 
-## themes
+## GUI
 - vscode-nier-automata-theme
 - ms-vscode.theme-tomorrowkit
 - vsc-material-theme
 - material-icon-theme
+- activefileinstatusbar
+
+# tools
+- remote-wsl
